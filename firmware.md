@@ -9,6 +9,7 @@ And you can extract the firmware using [RNG_Tool](http://www.gpsrchive.com/Orego
 
 
 Which should give you those files
+
 ![](https://i.imgur.com/svw9Pv1.png)
 
 fw_all.bin is the main firmware.

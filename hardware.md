@@ -1,6 +1,9 @@
 SoC : MT3333
+
 CPU : ARM v7
+
 Ram : 265kb
+
 
 Pictures :
 

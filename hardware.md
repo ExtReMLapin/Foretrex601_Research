@@ -1,3 +1,6 @@
+CPU : ARM
+Ram : 265kb
+
 Pictures :
 
 ![](https://i.imgur.com/bNzdDl8.jpg)

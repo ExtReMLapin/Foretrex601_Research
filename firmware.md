@@ -47,5 +47,4 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 Also string :  `..\..\..\TSK\garmin-os\arm\tsk_excptn_mngr.c`
 
 
-
-Didn't manage to load it into IDA Pro yet
+[Video showing how to load the whole thing in IDA](https://www.youtube.com/watch?v=wBGVtFK7Xfc)

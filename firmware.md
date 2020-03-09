@@ -47,4 +47,9 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 Also string :  `..\..\..\TSK\garmin-os\arm\tsk_excptn_mngr.c`
 
 
+You can dump the ram following [this turorial](https://www.gpspower.net/garmin-receivers-firmwares/277248-how-backup-nuvi-nv-region41-sd.html), it will not do what was expected but will create a crashdump file here `G:\GARMIN\DEBUG\ERR_LOG.TXT`
+
+Inside the memory dump you can find this string : `MT3333 Software Version 2.50`
+
+
 [Video showing how to load the whole thing in IDA](https://www.youtube.com/watch?v=wBGVtFK7Xfc)

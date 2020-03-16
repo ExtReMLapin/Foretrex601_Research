@@ -55,37 +55,6 @@ Inside the memory dump you can find this string : `MT3333 Software Version 2.50`
 [Video showing how to load the whole thing in IDA](https://www.youtube.com/watch?v=wBGVtFK7Xfc)
 
 
-## Sections list : 
-
-```
-.symtab
-.strtab
-.shstrtab
-.interp
-.note.ABI-tag
-.gnu.hash
-.dynsym
-.dynstr
-.gnu.version
-.gnu.version_r
-.rela.dyn
-.rela.plt
-.init
-.text
-.fini
-.rodata
-.eh_frame_hdr
-.eh_frame
-.init_array
-.fini_array
-.dynamic
-.got
-.got.plt
-.data
-.bss
-.comment
-```
-
 
 # Supported languages
 

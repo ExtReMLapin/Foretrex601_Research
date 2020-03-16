@@ -1,4 +1,4 @@
-
+Based on firmware 3.5
 # Firmware extraction
 
 
@@ -53,3 +53,29 @@ Inside the memory dump you can find this string : `MT3333 Software Version 2.50`
 
 
 [Video showing how to load the whole thing in IDA](https://www.youtube.com/watch?v=wBGVtFK7Xfc)
+
+
+# Supported languages
+
+
+```
+0:\Garmin\Text\french.ln3
+0:\Garmin\Text\spanish.ln3
+0:\Garmin\Text\german.ln3
+0:\Garmin\Text\italian.ln3
+0:\Garmin\Text\swedish.ln3
+0:\Garmin\Text\danish.ln3
+0:\Garmin\Text\norwegia.ln3
+0:\Garmin\Text\dutch.ln3
+0:\Garmin\Text\finnish.ln3
+0:\Garmin\Text\polish.ln3
+0:\Garmin\Text\czech.ln3
+0:\Garmin\Text\croatia.ln3
+0:\Garmin\Text\greek.ln3
+0:\Garmin\Text\slovakia.ln3
+0:\Garmin\Text\slovenia.ln3
+0:\Garmin\Text\russian.ln3
+0:\Garmin\Text\brazilia.ln3
+0:\Garmin\Text\arabic.ln3
+0:\Garmin\Text\turkish.ln3
+```

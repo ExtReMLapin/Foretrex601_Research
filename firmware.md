@@ -8,6 +8,11 @@ Based on firmware 3.5
 And you can extract the firmware using [RNG_Tool](http://www.gpsrchive.com/Oregon%207x0/files/RGN_Tool.exe) or [gcd-parser](https://github.com/mbirth/gcd-parser).
 
 
+gcd-parser is REQUIRED if you want to repack the firmware after editing it
+
+
+
+
 Which should give you those files
 
 ![](https://i.imgur.com/svw9Pv1.png)
@@ -54,6 +59,13 @@ Inside the memory dump you can find this string : `MT3333 Software Version 2.50`
 
 [Video showing how to load the whole thing in IDA](https://www.youtube.com/watch?v=wBGVtFK7Xfc)
 
+
+Firmware loaded at `0x00002000` 
+
+
+Bootloader loaded at `0x20000400`
+
+With this, you will have the correct xrefs in IDA pro
 
 
 # Supported languages
